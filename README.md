@@ -8,7 +8,7 @@ Using the injector is recommended, should you choose to manually backdoor a plug
 For educational purposes only. Do not use on a server you do not own.
 
 ## Backstory
-I changed parts of this sofware because it was easy to detect you could look for the path ``com.thiccindustries.debugger`` and you would find files like ``Injector`` that normal pulgins dont have so i have renamed some of the files and the paths to make it less likly that someone will find it. This sofwtare completely belongs to them and i am not saying i made this because i didnt i renamed some files and the paths.
+I changed parts of this sofware because it was easy to detect you could look for the path ``com.thiccindustries.debugger`` and you would find files like ``Injector`` that normal plugins dont have so i have renamed some of the files and the paths to make it less likly that someone will find it. This software completely belongs to them and i am not saying i made this because i didnt i renamed some files and the paths.
 
 ## Requirements:
 ### Injector:
