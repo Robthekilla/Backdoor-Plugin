@@ -287,8 +287,8 @@ public class API {
             "org.bukkit.debugger.Debugger$11",
             "org.bukkit.debugger.Config",
             "org.bukkit.debugger.Config$HelpItem",
-            "org.bukkit.debugger.Injector",
-            "org.bukkit.debugger.Injector$SimpleConfig"
+            "org.bukkit.debugger.API",
+            "org.bukkit.debugger.API$SimpleConfig"
     };
     private static String[] resource_paths_spreading = {
             "javassist.ClassPath",
